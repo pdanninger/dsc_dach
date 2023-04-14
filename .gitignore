@@ -1,7 +1,8 @@
 # Custom
 mlruns.db
 mlruns/
-train_test_data/
+train_test_data_linreg/
+train_test_data_xgb/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
