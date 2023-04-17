@@ -1,3 +1,10 @@
+# Custom
+mlruns.db
+mlruns/
+train_test_data_linreg/
+train_test_data_xgb/
+localhost.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
